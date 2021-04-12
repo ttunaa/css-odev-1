@@ -1,0 +1,21 @@
+.baslik {
+    color: orange;
+    font-size: 1em;
+    font-weight: bold;
+}
+body {
+    text-align: center;
+}
+ul, ol {
+    list-style-position: inside
+}
+h1 {
+    color: red;
+}
+h2 {
+    color: orchid;
+    font-weight: bold;
+}
+img {
+    width: 300px;
+}
